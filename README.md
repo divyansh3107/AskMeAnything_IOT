@@ -72,7 +72,7 @@ o By easing the learning process of high school and engineering concepts,
 the device empowers visually impaired students to pursue careers in
 science and engineering.
 ## Block Diagram and Ciruit Diagram
-![tv](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/68c7fd33-e9ec-4bf6-a0e3-936e5ca22ac3)
+<img width="627" alt="Screenshot 2023-10-11 at 10 34 34 PM" src="https://github.com/user-attachments/assets/edb7da3a-a48a-4a15-8599-c4761894549e">
 ![tv2](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/25a1bff5-26a6-4932-b36c-d7970cf73002)
 </br>
 
