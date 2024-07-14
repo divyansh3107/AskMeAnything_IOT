@@ -73,28 +73,10 @@ the device empowers visually impaired students to pursue careers in
 science and engineering.
 ## Block Diagram and Ciruit Diagram
 <img width="627" alt="Screenshot 2023-10-11 at 10 34 34 PM" src="https://github.com/user-attachments/assets/edb7da3a-a48a-4a15-8599-c4761894549e">
-![tv2](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/25a1bff5-26a6-4932-b36c-d7970cf73002)
 </br>
 
 # Component Connections
 
-## Distance Sensor (X)
-| Sensor Pin | Microcontroller Pin |
-|------------|----------------------|
-| VCC        | VCC                  |
-| GND        | GND                  |
-| SDA        | SDA                  |
-| SCL        | SCL                  |
-| Signal     | D1                   |
-
-## Distance Sensor (Y)
-| Sensor Pin | Microcontroller Pin |
-|------------|----------------------|
-| VCC        | VCC                  |
-| GND        | GND                  |
-| SDA        | SDA                  |
-| SCL        | SCL                  |
-| Signal     | D2                   |
 
 ## Coin Vibration Motor
 | Motor Pin  | Microcontroller Pin |
@@ -105,16 +87,6 @@ science and engineering.
 | Motor-3    | D5                   |
 | Motor-4    | D6                   |
 
-## Mini Vibration Motor
-| Motor Pin  | Microcontroller Pin |
-|------------|----------------------|
-| Common Ground | GND              |
-| Motor-1    | D7                   |
-| Motor-2    | D8                   |
-| Motor-3    | D9                   |
-| Motor-4    | D10                  |
-| Motor-5    | D11                  |
-| Motor-6    | D12                  |
 
 Ensure all connections are secure and double-check each component's datasheet for any additional requirements or notes.
 # Budget and Component Links
